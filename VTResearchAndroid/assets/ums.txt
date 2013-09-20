@@ -1,0 +1,11 @@
+1100	Newman Library	37.22854	-80.41976
+1101	Burruss Hall	37.22849	-80.42284
+1102	Davidson Hall	37.22642	-80.42527
+1103	West Campus/Perry Nbnd	37.2289	-80.42745
+1335	Old Glade/Glade Nbnd	37.2345	-80.43553
+1336	University Mall Main Entrance	37.23429	-80.43418
+1115	Wright House	37.22675	-80.42575
+1116	Litton Reaves Hall	37.22245	-80.42353
+1123	McComas Hall	37.22125	-80.42223
+1124	Cassell Coliseum	37.22313	-80.41948
+1125	Tennis Courts	37.22505	-80.41673

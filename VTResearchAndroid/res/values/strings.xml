@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VTResearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string-array name="busRoutes">
+        <item>Harding</item>
+        <item>Hethwood A</item>
+        <item>Hethwood B</item>
+        <item>Hethwood / Harding</item>
+        <item>Hokie Express</item>
+        <item>Main Street South</item>
+        <item>Progress</item>
+        <item>Tom\'s Creek</item>
+        <item>Two Town Trolley</item>
+        <item>University City Boulevard</item>
+        <item>University Mall Shuttle</item>
+    </string-array>
+
+</resources>

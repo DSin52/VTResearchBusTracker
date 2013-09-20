@@ -1,0 +1,39 @@
+1111	Alumni Mall Ebnd	37.23119	-80.41642
+1112	Alumni Mall Wbnd	37.23134	-80.41656
+1601	Blacksburg Municipal Building	37.22761	-80.4121
+1620	Blacksburg Square	37.21581	-80.40078
+1609	Fairfax/Ellett Ebnd	37.20866	-80.39672
+1634	Fairfax/Ellett Wbnd	37.20869	-80.39674
+1610	Fairfax/New Kent Ebnd	37.209	-80.39606
+1607	Gables Shopping Center	37.2156	-80.40087
+1613	Grissom/Nellies Cave Nbnd	37.21271	-80.39359
+1631	Grissom/Nellies Cave Sbnd	37.21242	-80.39342
+1628	Main St Post Office	37.22991	-80.41454
+1605	Main/Airport Sbnd	37.22218	-80.40617
+1619	Main/Ardmore Nbnd	37.21419	-80.40033
+1626	Main/Clay Nbnd	37.22676	-80.41118
+1621	Main/Cohee Nbnd	37.21941	-80.40287
+1625	Main/Eakin Nbnd	37.2251	-80.40937
+1603	Main/Eakin Sbnd	37.22478	-80.40902
+1604	Main/Edgewood Sbnd	37.22288	-80.40694
+1602	Main/Eheart Sbnd	37.22565	-80.40997
+1606	Main/Faystone Sbnd	37.21957	-80.40324
+1623	Main/Graves Nbnd	37.22235	-80.40636
+1624	Main/Hemlock Nbnd	37.22392	-80.40808
+1635	Main/Hemlock Sbnd	37.22377	-80.40791
+1608	Main/Landsdowne Sbnd	37.2125	-80.39999
+1627	Main/Lee Nbnd	37.22878	-80.41336
+1600	Main/Roanoke Sbnd	37.2297	-80.41432
+1622	Main/Sunset Nbnd	37.22094	-80.40477
+1630	Marlington/Emerald Ebnd	37.2124	-80.39629
+1615	Marlington/Emerald Wbnd	37.21246	-80.39607
+1629	Marlington/Grayland Ebnd	37.21186	-80.39817
+1616	Marlington/Grayland Wbnd	37.21189	-80.39805
+1614	Marlington/Grissom Wbnd	37.21304	-80.39409
+1617	Marlington/Main Wbnd	37.21146	-80.39962
+1611	New Kent/Loudon Ebnd	37.20996	-80.39565
+1633	New Kent/Loudon Wbnd	37.20974	-80.3957
+1612	New Kent/Sussex Ebnd	37.21147	-80.39368
+1632	New Kent/Sussex Wbnd	37.21144	-80.39375
+1110	Squires Ebnd	37.2298	-80.41873
+1113	Squires Wbnd	37.22977	-80.4191

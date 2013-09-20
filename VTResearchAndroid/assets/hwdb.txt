@@ -1,0 +1,21 @@
+1114	Torgerson Hall	37.22966	-80.42085
+1104	Old Security Bldg	37.23154	-80.42213
+1105	Stanger/Perry Nbnd	37.23255	-80.4241
+1200	Prices Fork/Old Glade Wbnd	37.23149	-80.43459
+1201	Vet School Wbnd	37.22961	-80.43781
+1202	Prices Fork/Plantation Wbnd	37.22541	-80.44526
+1203	Prices Fork/Huntington Wbnd	37.22456	-80.44733
+1204	Hethwood Square on Hethwood	37.21675	-80.45329
+1205	Tall Oaks/Hethwood Ebnd	37.21447	-80.45221
+1206	Tall Oaks/Foxhunt Ebnd	37.21576	-80.45046
+1207	Tall Oaks/Heather Ebnd	37.21719	-80.44864
+1212	Heather/Tall Oaks Nbnd	37.21773	-80.44823
+1213	Heather/Plymouth Nbnd	37.21964	-80.44807
+1214	Heather/Huntington Nbnd	37.22206	-80.4489
+1215	Prices Fork/Huntington Ebnd	37.22491	-80.44635
+1216	Prices Fork/Plantation Ebnd	37.22531	-80.44513
+1217	Vet School Ebnd	37.22962	-80.43758
+1218	Prices Fork/Old Glade Ebnd	37.23142	-80.43441
+1115	Wright House	37.22675	-80.42575
+1107	Hutcheson Hall	37.22598	-80.42287
+1108	War Memorial Hall	37.22667	-80.42157

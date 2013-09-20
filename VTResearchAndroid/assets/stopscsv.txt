@@ -1,0 +1,255 @@
+1100	Newman Library	37.22854	-80.41976
+1101	Burruss Hall	37.22849	-80.42284
+1102	Davidson Hall	37.22642	-80.42527
+1103	West Campus/Perry Nbnd	37.2289	-80.42745
+1104	Old Security Bldg	37.23154	-80.42213
+1105	Stanger/Perry Nbnd	37.23255	-80.4241
+1106	McBryde Hall	37.23104	-80.4216
+1107	Hutcheson Hall	37.22598	-80.42287
+1108	War Memorial Hall	37.22667	-80.42157
+1109	Eggleston Hall/Kent St	37.22803	-80.41969
+1110	Squires Ebnd	37.2298	-80.41873
+1111	Alumni Mall Ebnd	37.23119	-80.41642
+1112	Alumni Mall Wbnd	37.23134	-80.41656
+1113	Squires Wbnd	37.22977	-80.4191
+1114	Torgerson Hall	37.22966	-80.42085
+1115	Wright House	37.22675	-80.42575
+1116	Litton Reaves Hall	37.22245	-80.42353
+1117	Overflow Lot Wbnd	37.22419	-80.43075
+1118	Oak Lane North	37.22643	-80.43754
+1119	Oak Lane South	37.22487	-80.43636
+1120	Overflow Lot Ebnd	37.22409	-80.43083
+1121	I Lot/Cage Sbnd	37.22068	-80.42673
+1122	Food Science Bldg	37.22043	-80.42574
+1123	McComas Hall	37.22125	-80.42223
+1124	Cassell Coliseum	37.22313	-80.41948
+1125	Tennis Courts	37.22505	-80.41673
+1126	Harper Hall	37.22235	-80.42348
+1127	Lane Stadium S Endzone Sbnd	37.21853	-80.41929
+1128	Lane Stadium S Endzone Nbnd	37.21852	-80.41926
+1129	Coliseum Parking Lot Sbnd	37.22211	-80.41977
+1130	Oak Lane Nbnd	37.22514	-80.4362
+1131	Bioinfomatics Bldg	37.22116	-80.42709
+1132	Life Sciences 1 Bldg	37.22048	-80.42543
+1133	CTAS Institute Bldg	37.23212	-80.42288
+1200	Prices Fork/Old Glade Wbnd	37.23149	-80.43459
+1201	Vet School Wbnd	37.22961	-80.43781
+1202	Prices Fork/Plantation Wbnd	37.22541	-80.44526
+1203	Prices Fork/Huntington Wbnd	37.22456	-80.44733
+1204	Hethwood Square on Hethwood	37.21675	-80.45329
+1205	Tall Oaks/Hethwood Ebnd	37.21447	-80.45221
+1206	Tall Oaks/Foxhunt Ebnd	37.21576	-80.45046
+1207	Tall Oaks/Heather Ebnd	37.21719	-80.44864
+1208	Tall Oaks/Foxtrail Sbnd	37.21413	-80.44431
+1209	Stroubles Cr	37.21317	-80.44418
+1210	Tall Oaks/Foxridge Nbnd	37.21413	-80.4443
+1211	Tall Oaks/Copper Croft Nbnd	37.21599	-80.44533
+1212	Heather/Tall Oaks Nbnd	37.21773	-80.44823
+1213	Heather/Plymouth Nbnd	37.21964	-80.44807
+1214	Heather/Huntington Nbnd	37.22206	-80.4489
+1215	Prices Fork/Huntington Ebnd	37.22491	-80.44635
+1216	Prices Fork/Plantation Ebnd	37.22531	-80.44513
+1217	Vet School Ebnd	37.22962	-80.43758
+1218	Prices Fork/Old Glade Ebnd	37.23142	-80.43441
+1219	Heather/Tall Oaks Sbnd	37.22001	-80.44811
+1220	Heather/Plymouth Sbnd	37.21747	-80.44834
+1300	Toms Creek/Winston Nbnd	37.2348	-80.42588
+1301	Gilbert Linkous Nbnd	37.23656	-80.42683
+1302	Toms Creek/Watson Nbnd	37.23803	-80.4266
+1303	Toms Creek/McBryde Nbnd	37.24026	-80.42714
+1305	Progress/Broce Nbnd	37.24237	-80.42226
+1306	Progress/University Terr Nbnd	37.24423	-80.42149
+1307	Progress/Patrick Henry Nbnd	37.24522	-80.42153
+1308	The Village on Patrick Henry Wbnd	37.24493	-80.42521
+1309	Patrick Henry/Toms Creek Wbnd	37.2438	-80.42802
+1310	University City/Toms Creek Wbnd	37.24298	-80.42967
+1311	Shawnee on University City Wbnd	37.24224	-80.43338
+1312	Shawnee on University City Sbnd	37.24103	-80.43523
+1313	University City/Broce Sbnd	37.23721	-80.43481
+1314	University City/Glade Sbnd	37.23578	-80.43407
+1315	University Mall Sbnd	37.23419	-80.4333
+1316	University Mall Nbnd	37.2346	-80.43336
+1317	University City/Glade Nbnd	37.23627	-80.43433
+1318	University City/Broce Nbnd	37.23792	-80.43517
+1319	Shawnee on University City Wbnd	37.2414	-80.43498
+1320	Shawnee on University City Ebnd	37.24234	-80.43291
+1321	University City/Falcon Ebnd	37.24274	-80.43064
+1322	University City/Toms Creek Wbnd	37.243	-80.42957
+1323	Patrick Henry/Toms Creek Ebnd	37.24405	-80.42759
+1324	The Village on Patrick Henry Ebnd	37.24511	-80.42473
+1325	Patrick Henry/Progress Ebnd	37.24579	-80.42284
+1326	Progress/Hunt Club Sbnd	37.24487	-80.42144
+1327	Progress/University Terr Sbnd	37.2435	-80.42187
+1328	Progress/Broce Sbnd	37.24235	-80.42226
+1330	Toms Creek/McBryde Sbnd	37.23954	-80.42695
+1331	Toms Creek/Watson Sbnd	37.23824	-80.42658
+1332	Gilbert Linkous Sbnd	37.23654	-80.42683
+1333	Toms Creek/Winston Sbnd	37.23438	-80.42564
+1334	Prices Fork/Turner Ebnd	37.23382	-80.42281
+1335	Old Glade/Glade Nbnd	37.2345	-80.43553
+1336	University Mall Main Entrance	37.23429	-80.43418
+1337	Toms Creek/Hunt Club Nbnd	37.24208	-80.42768
+1338	Toms Creek/Hunt Club Sbnd	37.24203	-80.42765
+1339	Progress/Watson Nbnd	37.23894	-80.4221
+1400	Main/Montgomery Nbnd	37.23806	-80.42051
+1401	Main/Lucas Nbnd S	37.23912	-80.41995
+1402	Lucas/Main Ebnd	37.23966	-80.41841
+1403	Lucas/Giles Ebnd	37.2393	-80.41671
+1404	Giles/Northview Nbnd	37.24095	-80.41624
+1405	Giles/Heights Nbnd	37.2429	-80.41447
+1406	Giles/Patrick Henry Nbnd	37.24497	-80.41223
+1407	Patrick Henry/Giles Wbnd	37.24532	-80.41287
+1408	Patrick Henry/Main Wbnd	37.24607	-80.41435
+1409	1500 North Main Nbnd	37.2491	-80.41291
+1410	Main/Giles Nbnd	37.25099	-80.4116
+1411	Main/Red Maple Nbnd	37.25313	-80.41092
+1412	Givens/Main Wbnd	37.25608	-80.41147
+1413	Whipple/Givens Wbnd	37.25479	-80.41341
+1414	Pheasant Run	37.24905	-80.41699
+1415	Seneca/Patrick Henry Sbnd	37.24742	-80.41756
+1416	Main/Patrick Henry Sbnd	37.24598	-80.41511
+1417	1200 North Main Sbnd	37.24327	-80.41707
+1418	Main/Northview Sbnd	37.24153	-80.41831
+1419	Main/Lucas Sbnd	37.24016	-80.41929
+1420	Main/Montgomery Sbnd	37.23891	-80.42007
+1421	Main/Kabrich Sbnd	37.236	-80.42107
+1422	Main/Collegiate Ct Sbnd	37.2343	-80.41953
+1423	Main/Turner Sbnd	37.23323	-80.41813
+1424	Main/Lucas Nbnd N	37.2403	-80.41919
+1425	Main/Northview Nbnd	37.24192	-80.41804
+1426	1200 North Main Nbnd	37.24327	-80.41707
+1427	Main/Patrick Henry Nbnd	37.24598	-80.41511
+1428	Whipple/Courtney Sbnd	37.25248	-80.41276
+1429	1500 North Main Sbnd	37.2495	-80.41262
+1430	Patrick Henry/Seneca Wbnd	37.24693	-80.4169
+1431	Main/Turner Nbnd	37.23394	-80.41904
+1500	Roanoke/Church Ebnd	37.23016	-80.41273
+1501	Roanoke/Wharton Ebnd	37.23125	-80.4111
+1502	Roanoke/Rutledge Ebnd	37.23181	-80.41026
+1503	Roanoke/Woolwine Ebnd	37.23269	-80.40897
+1504	Harding/Owens Ebnd	37.23549	-80.40858
+1505	Harding/Cork Ebnd	37.23663	-80.40758
+1506	Harding/Patrick Henry Ebnd	37.23777	-80.40588
+1507	Harding/Apperson Ebnd	37.23857	-80.40427
+1508	Harding/Vista Ebnd	37.23922	-80.40298
+1509	Harding/Roanoke Ebnd	37.24044	-80.40053
+1510	Ascot/Harding Ebnd	37.24149	-80.39922
+1511	Ascot/Hampton	37.23922	-80.3982
+1512	Ascot/Harding Wbnd	37.24137	-80.39899
+1513	Harding/Rucker Wbnd	37.24041	-80.40059
+1514	Harding/Sutton Wbnd	37.23919	-80.40305
+1515	Harding/Apperson Wbnd	37.23848	-80.40446
+1516	Harding/Patrick Henry Wbnd	37.23772	-80.40599
+1517	Harding/Cork Wbnd	37.2358	-80.4083
+1518	Roanoke/Woolwine Wbnd	37.23255	-80.40917
+1519	Roanoke/Rutledge Wbnd	37.23177	-80.41032
+1520	Roanoke/Wharton Wbnd	37.23114	-80.41126
+1521	Roanoke/Penn Wbnd	37.23039	-80.41238
+1600	Main/Roanoke Sbnd	37.2297	-80.41432
+1601	Blacksburg Municipal Building	37.22761	-80.4121
+1602	Main/Eheart Sbnd	37.22565	-80.40997
+1603	Main/Eakin Sbnd	37.22478	-80.40902
+1604	Main/Edgewood Sbnd	37.22288	-80.40694
+1605	Main/Airport Sbnd	37.22218	-80.40617
+1606	Main/Faystone Sbnd	37.21957	-80.40324
+1607	Gables Shopping Center	37.2156	-80.40087
+1608	Main/Landsdowne Sbnd	37.2125	-80.39999
+1609	Fairfax/Ellett Ebnd	37.20866	-80.39672
+1610	Fairfax/New Kent Ebnd	37.209	-80.39606
+1611	New Kent/Loudon Ebnd	37.20996	-80.39565
+1612	New Kent/Sussex Ebnd	37.21147	-80.39368
+1613	Grissom/Nellies Cave Nbnd	37.21271	-80.39359
+1614	Marlington/Grissom Wbnd	37.21304	-80.39409
+1615	Marlington/Emerald Wbnd	37.21246	-80.39607
+1616	Marlington/Grayland Wbnd	37.21189	-80.39805
+1617	Marlington/Main Wbnd	37.21146	-80.39962
+1618	Main/Landsdowne Nbnd	37.21333	-80.40007
+1619	Main/Ardmore Nbnd	37.21419	-80.40033
+1620	Blacksburg Square	37.21581	-80.40078
+1621	Main/Cohee Nbnd	37.21941	-80.40287
+1622	Main/Sunset Nbnd	37.22094	-80.40477
+1623	Main/Graves Nbnd	37.22235	-80.40636
+1624	Main/Hemlock Nbnd	37.22392	-80.40808
+1625	Main/Eakin Nbnd	37.2251	-80.40937
+1626	Main/Clay Nbnd	37.22676	-80.41118
+1627	Main/Lee Nbnd	37.22878	-80.41336
+1628	Main St Post Office	37.22991	-80.41454
+1629	Marlington/Grayland Ebnd	37.21186	-80.39817
+1630	Marlington/Emerald Ebnd	37.2124	-80.39629
+1631	Grissom/Nellies Cave Sbnd	37.21242	-80.39342
+1632	New Kent/Sussex Wbnd	37.21144	-80.39375
+1633	New Kent/Loudon Wbnd	37.20974	-80.3957
+1634	Fairfax/Ellett Wbnd	37.20869	-80.39674
+1635	Main/Hemlock Sbnd	37.22377	-80.40791
+1636	Industrial Park/Transportation Res Ebnd	37.1936	-80.40028
+1637	Prosperity/Industrial Park Nbnd	37.19422	-80.39758
+1638	Professional Park Nbnd	37.19713	-80.40028
+1639	Main/Dowdy Nbnd	37.20199	-80.39948
+1640	Main/S Hill Nbnd	37.20697	-80.39883
+1641	Fairfax Circle	37.20752	-80.39388
+1642	Main/S Hill Sbnd	37.20723	-80.399
+1643	Main/Dowdy Sbnd	37.20275	-80.39939
+1644	Main/South Park Sbnd	37.20017	-80.40034
+1645	Professional Park Sbnd	37.19679	-80.40028
+1646	Prosperity/Industrial Park Sbnd	37.19422	-80.3977
+1647	Industrial Park/Transportation Res Wbnd	37.1937	-80.40028
+1700	Rec Fields Sbnd	37.21482	-80.41841
+1701	Pratt Dr/Garvin Bldg Sbnd	37.20169	-80.41173
+1702	Pratt/Kraft Ebnd	37.20109	-80.41074
+1703	Airport	37.20528	-80.40851
+1704	Rec Fields Nbnd	37.21574	-80.41868
+1705	Pratt Dr/Andrews Bldg Sbnd	37.20369	-80.41245
+1706	Kraft/Tech Center Dr Sbnd	37.20429	-80.41001
+1707	Pratt/Kraft Wbnd	37.20114	-80.41065
+1708	Pratt Dr/Garvin Bldg Nbnd	37.20169	-80.41171
+1709	Pratt Dr/Andrews Bldg Sbnd	37.20401	-80.41248
+1710	Kraft/Research Ctr Ebnd	37.19888	-80.40543
+1711	Research Ctr/Rimrock Sbnd	37.1961	-80.40397
+1712	Research Ctr/Rimrock Nbnd	37.1961	-80.40395
+1713	Research Ctr/N Knollwood Nbnd	37.20264	-80.40584
+1714	Kraft/Knowledgeworks 1 Bldg Sbnd	37.2001	-80.4079
+1715	Kraft/Moss Bldg Sbnd	37.20186	-80.40981
+1716	Research Ctr/S Knollwood Nbnd	37.19998	-80.40532
+1800	New River Valley Mall	37.1661	-80.4285
+1800	New River Valley Mall	37.1661	-80.42853
+1801	NRV Theatre	37.1642	-80.4291
+1802	Wal Mart	37.1616	-80.426
+1802	Wal Mart	37.16157	-80.42596
+1803	Montgomery Regional Hospital	37.18725	-80.40983
+2100	Montgomery County Govt Center	37.13142	-80.39331
+2101	Replublic/Salem Nbnd	37.1372	-80.3962
+2102	Park/Hagan	37.13404	-80.3995
+2103	Park/East	37.1354	-80.3934
+2104	Depot/Cambria Wbnd	37.14127	-80.40401
+2105	Aquatic Center	37.13839	-80.41251
+2108	Depot/New Wbnd	37.13081	-80.4146
+2109	W Main/Dunkley Ebnd	37.1283	-80.4106
+2110	Montgomery County Courthouse	37.13073	-80.40775
+2111	Roanoke/Evans Ebnd	37.13015	-80.40209
+2112	Recreation Center	37.15034	-80.41492
+2113	Simmons/Hammes Nbnd	37.13639	-80.37
+2114	Eletric Way/Hubbell Wbnd	37.13721	-80.37286
+2115	Falling Branch Park and Ride	37.12683	-80.37051
+2116	Roanoke/Hungate Wbnd	37.13422	-80.38493
+2117	Roanoke/East Wbnd	37.13146	-80.39344
+2118	Roanoke/Craig Wbnd	37.13054	-80.39729
+2119	Roanoke/Evans Wbnd	37.13025	-80.40267
+2120	Christiansburg Town Hall	37.13061	-80.408
+2130	Roanoke/Roberts Ebnd	37.13036	-80.39775
+2200	Conston/Spradlin Farm Wbnd	37.15826	-80.42316
+2201	Farmview/Ridinger Ebnd	37.15646	-80.42125
+2202	K-Mart	37.16236	-80.42093
+2203	Laurel/Peppers Ferry Nbnd	37.1641	-80.41985
+2203	Laurel/Peppers Ferry	37.1641	-80.41985
+2204	DMV on Arbor Nbnd	37.1653	-80.41796
+2204	DMV on Arbor	37.1653	-80.41796
+2205	Post Office on Arbor Nbnd	37.16759	-80.4175
+2205	Post Office on Arbor	37.16759	-80.4175
+2206	Arbor/Market Wbnd	37.1688	-80.4196
+2206	Arbor/Market	37.1688	-80.4196
+2209	Shoppers Way Wbnd	37.16668	-80.42521
+2209	Shoppers Way	37.16668	-80.42521
+2210	NRV Theatre	37.1642	-80.4291
+2301	North Franklin/Wades Nbnd	37.13652	-80.41377
+2302	North Franklin/Wades Sbnd	37.13633	-80.414
+2303	North Franklin/Cambria Nbnd	37.15116	-80.4145

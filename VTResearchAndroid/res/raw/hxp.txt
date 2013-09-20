@@ -1,0 +1,20 @@
+1112	Alumni Mall Wbnd	37.23134	-80.41656
+1131	Bioinfomatics Bldg	37.22116	-80.42709
+1101	Burruss Hall	37.22849	-80.42284
+1124	Cassell Coliseum	37.22313	-80.41948
+1122	Food Science Bldg	37.22043	-80.42574
+1121	I Lot/Cage Sbnd	37.22068	-80.42673
+1132	Life Sciences 1 Bldg	37.22048	-80.42543
+1116	Litton Reaves Hall	37.22245	-80.42353
+1628	Main St Post Office	37.22991	-80.41454
+1627	Main/Lee Nbnd	37.22878	-80.41336
+1123	McComas Hall	37.22125	-80.42223
+1130	Oak Lane Nbnd	37.22514	-80.4362
+1118	Oak Lane North	37.22643	-80.43754
+1119	Oak Lane South	37.22487	-80.43636
+1120	Overflow Lot Ebnd	37.22409	-80.43083
+1117	Overflow Lot Wbnd	37.22419	-80.43075
+1113	Squires Wbnd	37.22977	-80.4191
+1125	Tennis Courts	37.22505	-80.41673
+1309	Patrick Henry/Toms Creek Wbnd	37.2438	-80.42802
+1334	Prices Fork/Turner Ebnd	37.23382	-80.42281

@@ -1,0 +1,20 @@
+1124	Cassell Coliseum	37.22313	-80.41948
+1116	Litton Reaves Hall	37.22245	-80.42353
+1123	McComas Hall	37.22125	-80.42223
+1100	Newman Library	37.22854	-80.41976
+1104	Old Security Bldg	37.23154	-80.42213
+1305	Progress/Broce Nbnd	37.24237	-80.42226
+1307	Progress/Patrick Henry Nbnd	37.24522	-80.42153
+1306	Progress/University Terr Nbnd	37.24423	-80.42149
+1339	Progress/Watson Nbnd	37.23894	-80.4221
+1312	Shawnee on University City Sbnd	37.24103	-80.43523
+1311	Shawnee on University City Wbnd	37.24224	-80.43338
+1105	Stanger/Perry Nbnd	37.23255	-80.4241
+1125	Tennis Courts	37.22505	-80.41673
+1308	The Village on Patrick Henry Wbnd	37.24493	-80.42521
+1114	Torgerson Hall	37.22966	-80.42085
+1313	University City/Broce Sbnd	37.23721	-80.43481
+1314	University City/Glade Sbnd	37.23578	-80.43407
+1310	University City/Toms Creek Wbnd	37.24298	-80.42967
+1315	University Mall Sbnd	37.23419	-80.4333
+1115	Wright House	37.22675	-80.42575

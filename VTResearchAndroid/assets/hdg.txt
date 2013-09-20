@@ -1,0 +1,31 @@
+1101	Burruss Hall	37.22849	-80.42284
+1107	Hutcheson Hall	37.22598	-80.42287
+1108	War Memorial Hall	37.22667	-80.42157
+1110	Squires Ebnd	37.2298	-80.41873
+1111	Alumni Mall Ebnd	37.23119	-80.41642
+1628	Main St Post Office	37.22991	-80.41454
+1500	Roanoke/Church Ebnd	37.23016	-80.41273
+1501	Roanoke/Wharton Ebnd	37.23125	-80.4111
+1502	Roanoke/Rutledge Ebnd	37.23181	-80.41026
+1503	Roanoke/Woolwine Ebnd	37.23269	-80.40897
+1504	Harding/Owens Ebnd	37.23549	-80.40858
+1505	Harding/Cork Ebnd	37.23663	-80.40758
+1506	Harding/Patrick Henry Ebnd	37.23777	-80.40588
+1507	Harding/Apperson Ebnd	37.23857	-80.40427
+1508	Harding/Vista Ebnd	37.23922	-80.40298
+1509	Harding/Roanoke Ebnd	37.24044	-80.40053
+1510	Ascot/Harding Ebnd	37.24149	-80.39922
+1511	Ascot/Hampton	37.23922	-80.3982
+1512	Ascot/Harding Wbnd	37.24137	-80.39899
+1513	Harding/Rucker Wbnd	37.24041	-80.40059
+1514	Harding/Sutton Wbnd	37.23919	-80.40305
+1515	Harding/Apperson Wbnd	37.23848	-80.40446
+1516	Harding/Patrick Henry Wbnd	37.23772	-80.40599
+1517	Harding/Cork Wbnd	37.2358	-80.4083
+1518	Roanoke/Woolwine Wbnd	37.23255	-80.40917
+1519	Roanoke/Rutledge Wbnd	37.23177	-80.41032
+1520	Roanoke/Wharton Wbnd	37.23114	-80.41126
+1521	Roanoke/Penn Wbnd	37.23039	-80.41238
+1600	Main/Roanoke Sbnd	37.2297	-80.41432
+1112	Alumni Mall Wbnd	37.23134	-80.41656
+1113	Squires Wbnd	37.22977	-80.4191

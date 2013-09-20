@@ -1,0 +1,16 @@
+1101	Burruss Hall	37.22849	-80.42284
+1133	CTAS Institute Bldg	37.23212	-80.42288
+1102	Davidson Hall	37.22642	-80.42527
+1332	Gilbert Linkous Sbnd	37.23654	-80.42683
+1106	McBryde Hall	37.23104	-80.4216
+1309	Patrick Henry/Toms Creek Wbnd	37.2438	-80.42802
+1334	Prices Fork/Turner Ebnd	37.23382	-80.42281
+1305	Progress/Broce Nbnd	37.24237	-80.42226
+1307	Progress/Patrick Henry Nbnd	37.24522	-80.42153
+1339	Progress/Watson Nbnd	37.23894	-80.4221
+1308	The Village on Patrick Henry Wbnd	37.24493	-80.42521
+1338	Toms Creek/Hunt Club Sbnd	37.24203	-80.42765
+1330	Toms Creek/McBryde Sbnd	37.23954	-80.42695
+1331	Toms Creek/Watson Sbnd	37.23824	-80.42658
+1333	Toms Creek/Winston Sbnd	37.23438	-80.42564
+1103	West Campus/Perry Nbnd	37.2289	-80.42745

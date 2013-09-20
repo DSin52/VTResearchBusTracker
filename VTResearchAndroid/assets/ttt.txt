@@ -1,0 +1,17 @@
+1110	Squires Ebnd	37.2298	-80.41873
+1600	Main/Roanoke Sbnd	37.2297	-80.41432
+1618	Main/Landsdowne Nbnd	37.21333	-80.40007
+1803	Montgomery Regional Hospital	37.18725	-80.40983
+1802	Wal Mart	37.1616	-80.426
+2209	Shoppers Way Wbnd	37.16668	-80.42521
+2210	NRV Theatre	37.1642	-80.4291
+1800	New River Valley Mall	37.1661	-80.4285
+2202	K-Mart	37.16236	-80.42093
+2203	Laurel/Peppers Ferry	37.1641	-80.41985
+2204	DMV on Arbor	37.1653	-80.41796
+2205	Post Office on Arbor	37.16759	-80.4175
+2206	Arbor/Market	37.1688	-80.4196
+1803	Montgomery Regional Hospital	37.18725	-80.40983
+1619	Main/Ardmore Nbnd	37.21419	-80.40033
+1628	Main St Post Office	37.22991	-80.41454
+1113	Squires Wbnd	37.22977	-80.4191

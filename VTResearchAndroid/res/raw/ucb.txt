@@ -1,0 +1,18 @@
+1101	Burruss Hall	37.22849	-80.42284
+1102	Davidson Hall	37.22642	-80.42527
+1103	West Campus/Perry Nbnd	37.2289	-80.42745
+1316	University Mall Nbnd	37.2346	-80.43336
+1317	University City/Glade Nbnd	37.23627	-80.43433
+1318	University City/Broce Nbnd	37.23792	-80.43517
+1319	Shawnee on University City Wbnd	37.2414	-80.43498
+1320	Shawnee on University City Ebnd	37.24234	-80.43291
+1321	University City/Falcon Ebnd	37.24274	-80.43064
+1322	University City/Toms Creek Wbnd	37.243	-80.42957
+1323	Patrick Henry/Toms Creek Ebnd	37.24405	-80.42759
+1324	The Village on Patrick Henry Ebnd	37.24511	-80.42473
+1325	Patrick Henry/Progress Ebnd	37.24579	-80.42284
+1326	Progress/Hunt Club Sbnd	37.24487	-80.42144
+1327	Progress/University Terr Sbnd	37.2435	-80.42187
+1328	Progress/Broce Sbnd	37.24235	-80.42226
+1133	CTAS Institute Bldg	37.23212	-80.42288
+1106	McBryde Hall	37.23104	-80.4216

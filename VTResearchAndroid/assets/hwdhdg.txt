@@ -1,0 +1,25 @@
+1101	Burruss Hall	37.22849	-80.42284
+1102	Davidson Hall	37.22642	-80.42527
+1103	West Campus/Perry Nbnd	37.2289	-80.42745
+1200	Prices Fork/Old Glade Wbnd	37.23149	-80.43459
+1201	Vet School Wbnd	37.22961	-80.43781
+1202	Prices Fork/Plantation Wbnd	37.22541	-80.44526
+1203	Prices Fork/Huntington Wbnd	37.22456	-80.44733
+1204	Hethwood Square on Hethwood	37.21675	-80.45329
+1205	Tall Oaks/Hethwood Ebnd	37.21447	-80.45221
+1206	Tall Oaks/Foxhunt Ebnd	37.21576	-80.45046
+1207	Tall Oaks/Heather Ebnd	37.21719	-80.44864
+1219	Heather/Tall Oaks Sbnd	37.22001	-80.44811
+1208	Tall Oaks/Foxtrail Sbnd	37.21413	-80.44431
+1209	Stroubles Cr	37.21317	-80.44418
+1210	Tall Oaks/Foxridge Nbnd	37.21413	-80.4443
+1211	Tall Oaks/Copper Croft Nbnd	37.21599	-80.44533
+1212	Heather/Tall Oaks Nbnd	37.21773	-80.44823
+1213	Heather/Plymouth Nbnd	37.21964	-80.44807
+1214	Heather/Huntington Nbnd	37.22206	-80.4489
+1215	Prices Fork/Huntington Ebnd	37.22491	-80.44635
+1216	Prices Fork/Plantation Ebnd	37.22531	-80.44513
+1217	Vet School Ebnd	37.22962	-80.43758
+1218	Prices Fork/Old Glade Ebnd	37.23142	-80.43441
+1133	CTAS Institute Bldg	37.23212	-80.42288
+1106	McBryde Hall	37.23104	-80.4216
